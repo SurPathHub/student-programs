@@ -1,5 +1,7 @@
 # Student Programs
-Don't apply because you want the title, know what technologies you love and what student programs it has: 
+##### Don't apply just because you want the title, please love their technologies, don't waste the opportunity they give, and please don't apply if you don't have a plan to use the role well. If you don't get accepted into this program, you can apply again when the application is open. 
+
+##### Note: Know what they offer, why you want to apply for the program? Is this program is applicable to the technology you choose? how can you help your peers if you get accepted to the program you choose? and lastly, you don't need to apply to many programs, focus on your role and to your technologies!
 
 <hr />
 
