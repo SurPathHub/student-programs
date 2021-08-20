@@ -34,8 +34,6 @@
 - <a href="https://www.cncf.io/people/ambassadors/">Cloud Native Ambassadors</a>
   - Cloud Native Ambassadors (CNAs) are individuals who are passionate about Cloud Native Computing Foundation technology and projects, recognized for their expertise, and willing to help others learn about the framework and community. This program is for everyone who love CNAs!
 
-- <a href="https://bit.ly/SAWO-Labs-Champ-Program">SAWO Champ Program</a>
-  - In SAWO Influencer Program, they aim to uplift our contributors who are adding value to the world using SAWO. To show their appreciation, everyone who contributes to SAWO Labs is eligible to receive some awesome benefits. This is a great opportunity for a developer and a content creator who provides recommendations to inspire their audience via social media.
 
 ---
 
@@ -83,3 +81,4 @@
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - [Radare Summer of Code](https://www.radare.org/rsoc/2019/)
 - [RAILS GIRLS SUMMER OF CODE](https://railsgirlssummerofcode.org/)
+- [SAWO Champ Program](https://bit.ly/SAWO-Labs-Champ-Program)
