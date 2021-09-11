@@ -34,6 +34,10 @@
 - <a href="https://www.cncf.io/people/ambassadors/">Cloud Native Ambassadors</a>
   - Cloud Native Ambassadors (CNAs) are individuals who are passionate about Cloud Native Computing Foundation technology and projects, recognized for their expertise, and willing to help others learn about the framework and community. This program is for everyone who love CNAs!
 
+- <a href="https://careers.vmware.com/campus-ambassador-program">VMware Campus Ambassador</a>
+  - VMware Campus Ambassador as an official brand representative and innovation event experience creator. When you represent VMware on your university campus in India or Europe for six-months, you will be connecting your student peers with the latest VMware products and solutions, interactive sessions, and networking opportunities with tech industry thought leaders.
+
+
 
 ---
 
