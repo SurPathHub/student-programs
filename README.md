@@ -86,3 +86,4 @@
 - [Radare Summer of Code](https://www.radare.org/rsoc/2019/)
 - [RAILS GIRLS SUMMER OF CODE](https://railsgirlssummerofcode.org/)
 - [SAWO Champ Program](https://bit.ly/SAWO-Labs-Champ-Program)
+- [Postman Student Expert Program](https://www.postman.com/company/student-program/)
